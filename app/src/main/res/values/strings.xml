@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">init</string>
+    <string name="des_btn_uno">logo de la aplicacion</string>
+    <string name="desc_btn_dos">ELLORI</string>
+
+
+    <string name="txt_informacion">Login</string>
+    <string name="txt_correo">Escribe tu correo </string>
+    <string name="txt_contraseña">Escribe una contraseña</string>
+    <string name="btn_saltar">Saltar</string>
+    <string name="btn_acceder">Entrar</string>
+    <string name="btn_facebook">facebook</string>
+    <string name="txt_recuperacion">¿Olvidaste la contraseña?</string>
+    <string name="txt_registro">¿No tienes cuenta? Registrate</string>
+    <string name="informacion_icono_loguin">Icono de el loguin</string>
+
+    <string name="informacion_fb">!Exelente¡, Vamos iniciar sesion con facebook</string>
+    <string name="desc_imagen">Logo de facebook</string>
+
+    <string name="Registro_info">Registrarse </string>
+    <string name="txt_nombre">Escribe tu nombre</string>
+    <string name="txt_apellido">Escribe tu apellido</string>
+    <string name="txt_recontraseña">Confirma tu contraseña</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="descripcion_icono_registro">Icono del registro</string>
+
+    <string name="menu_info">menu bien mamalon</string>
+</resources>
